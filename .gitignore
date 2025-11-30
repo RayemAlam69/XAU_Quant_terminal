@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment and config
+.env
+config.py
+
+# Data files (optional)
+data/
+*.csv
+*.txt
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
